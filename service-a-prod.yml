@@ -1,0 +1,3 @@
+message: "[Service A] Hello - PROD environment"
+server:
+  port: 8082

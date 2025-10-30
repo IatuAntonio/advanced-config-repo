@@ -1,0 +1,3 @@
+message: "[Service A] Hello - DEV environment"
+server:
+  port: 8081
