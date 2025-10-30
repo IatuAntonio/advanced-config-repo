@@ -1,3 +1,3 @@
-message: "[Service A] Hello - DEV environment"
+message: "[Service A] Hello - DEV environment (UPDATED)"
 server:
   port: 8081
